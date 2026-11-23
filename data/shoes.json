@@ -1,0 +1,1449 @@
+[
+  {
+    "id": "nike-pegasus-41",
+    "slug": "nike-pegasus-41",
+    "brand": "Nike",
+    "model": "Pegasus 41",
+    "category": "road",
+    "usages": [
+      "daily",
+      "long"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 140,
+      "krw": 169000
+    },
+    "specs": {
+      "weightG": 286,
+      "dropMm": 10,
+      "stackHeelMm": 37,
+      "stackForefootMm": 27,
+      "cushioning": 3,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.2,
+    "summary": "무난함의 대명사, 거의 모든 러너에게 맞는 데일리 트레이너",
+    "pros": [
+      "폭넓은 발볼 옵션",
+      "내구성 좋은 아웃솔",
+      "다양한 페이스에 대응"
+    ],
+    "cons": [
+      "특출난 반발력은 없음",
+      "동급 대비 약간 무거움"
+    ],
+    "recommendedFor": [
+      "첫 러닝화를 찾는 입문자",
+      "한 켤레로 대부분을 해결하고 싶은 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Nike%20Pegasus%2041",
+        "price": 139.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Nike%20Pegasus%2041",
+        "price": 139.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Nike%20Pegasus%2041",
+        "price": 169000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "nike-vomero-18",
+    "slug": "nike-vomero-18",
+    "brand": "Nike",
+    "model": "Vomero 18",
+    "category": "road",
+    "usages": [
+      "daily",
+      "long",
+      "recovery"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 150,
+      "krw": 189000
+    },
+    "specs": {
+      "weightG": 298,
+      "dropMm": 10,
+      "stackHeelMm": 46,
+      "stackForefootMm": 36,
+      "cushioning": 5,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.3,
+    "summary": "높은 스택의 맥스 쿠션 데일리 트레이너",
+    "pros": [
+      "매우 부드러운 착지감",
+      "장거리에서 다리 피로 적음"
+    ],
+    "cons": [
+      "빠른 페이스에는 둔함",
+      "무게감 있음"
+    ],
+    "recommendedFor": [
+      "주 40km 이상 달리는 러너",
+      "회복주를 자주 하는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Nike%20Vomero%2018",
+        "price": 139.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Nike%20Vomero%2018",
+        "price": 133.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Nike%20Vomero%2018",
+        "price": 168000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "nike-vaporfly-3",
+    "slug": "nike-vaporfly-3",
+    "brand": "Nike",
+    "model": "Vaporfly 3",
+    "category": "road",
+    "usages": [
+      "race"
+    ],
+    "releaseYear": 2023,
+    "price": {
+      "eur": 260,
+      "krw": 299000
+    },
+    "specs": {
+      "weightG": 196,
+      "dropMm": 8,
+      "stackHeelMm": 40,
+      "stackForefootMm": 32,
+      "cushioning": 4,
+      "stability": 2
+    },
+    "widths": [
+      "standard"
+    ],
+    "rating": 4.5,
+    "summary": "카본 플레이트 레이싱화의 기준점",
+    "pros": [
+      "압도적인 추진력",
+      "매우 가벼움"
+    ],
+    "cons": [
+      "내구성 짧음",
+      "좁은 발볼, 불안정한 코너링"
+    ],
+    "recommendedFor": [
+      "하프·풀코스 기록 단축을 노리는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Nike%20Vaporfly%203",
+        "price": 223.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Nike%20Vaporfly%203",
+        "price": 241.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Nike%20Vaporfly%203",
+        "price": 278000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "adidas-adizero-boston-12",
+    "slug": "adidas-adizero-boston-12",
+    "brand": "Adidas",
+    "model": "Adizero Boston 12",
+    "category": "road",
+    "usages": [
+      "tempo",
+      "long"
+    ],
+    "releaseYear": 2023,
+    "price": {
+      "eur": 170,
+      "krw": 209000
+    },
+    "specs": {
+      "weightG": 265,
+      "dropMm": 6,
+      "stackHeelMm": 39,
+      "stackForefootMm": 33,
+      "cushioning": 3,
+      "stability": 3
+    },
+    "widths": [
+      "standard"
+    ],
+    "rating": 4.3,
+    "summary": "에너지로드 탑재, 템포와 롱런을 아우르는 다목적 훈련화",
+    "pros": [
+      "견고하고 반발력 있는 승차감",
+      "레이스화 대용 가능"
+    ],
+    "cons": [
+      "딱딱하게 느껴질 수 있음",
+      "발볼 옵션 없음"
+    ],
+    "recommendedFor": [
+      "템포·인터벌 훈련 비중이 높은 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Adidas%20Adizero%20Boston%2012",
+        "price": 167.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Adidas%20Adizero%20Boston%2012",
+        "price": 164.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Adidas%20Adizero%20Boston%2012",
+        "price": 203000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "adidas-adizero-adios-pro-4",
+    "slug": "adidas-adizero-adios-pro-4",
+    "brand": "Adidas",
+    "model": "Adizero Adios Pro 4",
+    "category": "road",
+    "usages": [
+      "race"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 250,
+      "krw": 299000
+    },
+    "specs": {
+      "weightG": 205,
+      "dropMm": 6,
+      "stackHeelMm": 39,
+      "stackForefootMm": 33,
+      "cushioning": 4,
+      "stability": 2
+    },
+    "widths": [
+      "standard"
+    ],
+    "rating": 4.4,
+    "summary": "마라톤 세계기록급 레이싱 슈퍼슈즈",
+    "pros": [
+      "경쾌한 롤링 감각",
+      "레이스 후반까지 유지되는 쿠션"
+    ],
+    "cons": [
+      "높은 가격",
+      "좁은 토박스"
+    ],
+    "recommendedFor": [
+      "서브3·서브4를 노리는 마라토너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Adidas%20Adizero%20Adios%20Pro%204",
+        "price": 229.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Adidas%20Adizero%20Adios%20Pro%204",
+        "price": 214.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Adidas%20Adizero%20Adios%20Pro%204",
+        "price": 257000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "asics-gel-nimbus-27",
+    "slug": "asics-gel-nimbus-27",
+    "brand": "Asics",
+    "model": "Gel-Nimbus 27",
+    "category": "road",
+    "usages": [
+      "daily",
+      "long",
+      "recovery"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 200,
+      "krw": 219000
+    },
+    "specs": {
+      "weightG": 290,
+      "dropMm": 8,
+      "stackHeelMm": 43,
+      "stackForefootMm": 35,
+      "cushioning": 5,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.2,
+    "summary": "편안함에 집중한 프리미엄 쿠션화",
+    "pros": [
+      "부드럽고 안정적인 착지",
+      "니트 갑피 착화감 우수"
+    ],
+    "cons": [
+      "비싼 가격",
+      "속도감 부족"
+    ],
+    "recommendedFor": [
+      "장거리를 편하게 달리고 싶은 러너",
+      "체중이 많이 나가는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Asics%20Gel-Nimbus%2027",
+        "price": 169.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Asics%20Gel-Nimbus%2027",
+        "price": 179.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Asics%20Gel-Nimbus%2027",
+        "price": 197000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "asics-novablast-5",
+    "slug": "asics-novablast-5",
+    "brand": "Asics",
+    "model": "Novablast 5",
+    "category": "road",
+    "usages": [
+      "daily",
+      "tempo"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 150,
+      "krw": 159000
+    },
+    "specs": {
+      "weightG": 255,
+      "dropMm": 8,
+      "stackHeelMm": 41,
+      "stackForefootMm": 33,
+      "cushioning": 4,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.5,
+    "summary": "통통 튀는 반발력의 가성비 데일리 트레이너",
+    "pros": [
+      "재미있는 반발감",
+      "가격 대비 성능 최상급"
+    ],
+    "cons": [
+      "아웃솔 마모가 빠른 편"
+    ],
+    "recommendedFor": [
+      "즐겁게 달리고 싶은 입문~중급 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Asics%20Novablast%205",
+        "price": 146.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Asics%20Novablast%205",
+        "price": 140.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Asics%20Novablast%205",
+        "price": 149000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "asics-gel-kayano-31",
+    "slug": "asics-gel-kayano-31",
+    "brand": "Asics",
+    "model": "Gel-Kayano 31",
+    "category": "road",
+    "usages": [
+      "daily",
+      "long"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 190,
+      "krw": 209000
+    },
+    "specs": {
+      "weightG": 305,
+      "dropMm": 10,
+      "stackHeelMm": 40,
+      "stackForefootMm": 30,
+      "cushioning": 4,
+      "stability": 5
+    },
+    "widths": [
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.1,
+    "summary": "과내전 러너를 위한 대표 안정화",
+    "pros": [
+      "뛰어난 안정성",
+      "편안한 쿠션"
+    ],
+    "cons": [
+      "무거움",
+      "중립 러너에겐 과할 수 있음"
+    ],
+    "recommendedFor": [
+      "발이 안쪽으로 무너지는(과내전) 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Asics%20Gel-Kayano%2031",
+        "price": 172.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Asics%20Gel-Kayano%2031",
+        "price": 185.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Asics%20Gel-Kayano%2031",
+        "price": 205000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "hoka-clifton-10",
+    "slug": "hoka-clifton-10",
+    "brand": "Hoka",
+    "model": "Clifton 10",
+    "category": "road",
+    "usages": [
+      "daily",
+      "recovery",
+      "walking"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 150,
+      "krw": 189000
+    },
+    "specs": {
+      "weightG": 275,
+      "dropMm": 8,
+      "stackHeelMm": 42,
+      "stackForefootMm": 34,
+      "cushioning": 4,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.3,
+    "summary": "가볍고 푹신한 호카의 베스트셀러",
+    "pros": [
+      "무게 대비 큰 쿠션",
+      "부드러운 롤링"
+    ],
+    "cons": [
+      "발 앞쪽이 다소 좁음"
+    ],
+    "recommendedFor": [
+      "푹신한 데일리화를 원하는 러너",
+      "오래 서 있는 직업"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Hoka%20Clifton%2010",
+        "price": 125.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Hoka%20Clifton%2010",
+        "price": 130.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Hoka%20Clifton%2010",
+        "price": 164000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "hoka-mach-6",
+    "slug": "hoka-mach-6",
+    "brand": "Hoka",
+    "model": "Mach 6",
+    "category": "road",
+    "usages": [
+      "tempo",
+      "daily"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 150,
+      "krw": 189000
+    },
+    "specs": {
+      "weightG": 232,
+      "dropMm": 5,
+      "stackHeelMm": 37,
+      "stackForefootMm": 32,
+      "cushioning": 3,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.4,
+    "summary": "플레이트 없이도 빠른 가벼운 템포화",
+    "pros": [
+      "가벼움",
+      "경쾌한 반응"
+    ],
+    "cons": [
+      "장거리 쿠션은 아쉬움"
+    ],
+    "recommendedFor": [
+      "플레이트 없는 빠른 훈련화를 찾는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Hoka%20Mach%206",
+        "price": 145.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Hoka%20Mach%206",
+        "price": 136.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Hoka%20Mach%206",
+        "price": 172000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "brooks-ghost-17",
+    "slug": "brooks-ghost-17",
+    "brand": "Brooks",
+    "model": "Ghost 17",
+    "category": "road",
+    "usages": [
+      "daily",
+      "long",
+      "walking"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 150,
+      "krw": 179000
+    },
+    "specs": {
+      "weightG": 283,
+      "dropMm": 12,
+      "stackHeelMm": 35,
+      "stackForefootMm": 23,
+      "cushioning": 3,
+      "stability": 4
+    },
+    "widths": [
+      "narrow",
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.2,
+    "summary": "균형 잡힌 중립형 데일리 트레이너",
+    "pros": [
+      "가장 다양한 발볼 옵션",
+      "안정적이고 예측 가능한 승차감"
+    ],
+    "cons": [
+      "다소 평범한 반발력"
+    ],
+    "recommendedFor": [
+      "발볼이 넓거나 좁은 러너",
+      "안정감을 중시하는 입문자"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Brooks%20Ghost%2017",
+        "price": 134.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Brooks%20Ghost%2017",
+        "price": 142.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Brooks%20Ghost%2017",
+        "price": 170000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "saucony-endorphin-speed-4",
+    "slug": "saucony-endorphin-speed-4",
+    "brand": "Saucony",
+    "model": "Endorphin Speed 4",
+    "category": "road",
+    "usages": [
+      "tempo",
+      "race",
+      "long"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 180,
+      "krw": 229000
+    },
+    "specs": {
+      "weightG": 233,
+      "dropMm": 8,
+      "stackHeelMm": 36,
+      "stackForefootMm": 28,
+      "cushioning": 4,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.5,
+    "summary": "나일론 플레이트의 만능 스피드 트레이너",
+    "pros": [
+      "훈련과 레이스 겸용",
+      "가볍고 반발력 좋음"
+    ],
+    "cons": [
+      "가격이 높은 편"
+    ],
+    "recommendedFor": [
+      "한 켤레로 훈련과 레이스를 모두 하려는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Saucony%20Endorphin%20Speed%204",
+        "price": 148.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Saucony%20Endorphin%20Speed%204",
+        "price": 177.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Saucony%20Endorphin%20Speed%204",
+        "price": 227000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "hoka-speedgoat-6",
+    "slug": "hoka-speedgoat-6",
+    "brand": "Hoka",
+    "model": "Speedgoat 6",
+    "category": "trail",
+    "usages": [
+      "trail",
+      "long"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 155,
+      "krw": 199000
+    },
+    "specs": {
+      "weightG": 275,
+      "dropMm": 5,
+      "stackHeelMm": 38,
+      "stackForefootMm": 33,
+      "cushioning": 4,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.4,
+    "summary": "트레일 러닝의 스테디셀러 쿠션 트레일화",
+    "pros": [
+      "뛰어난 접지력(Vibram)",
+      "장거리 트레일에서도 편안함"
+    ],
+    "cons": [
+      "기술적 지형에서 둔함"
+    ],
+    "recommendedFor": [
+      "장거리 트레일·울트라 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Hoka%20Speedgoat%206",
+        "price": 148.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Hoka%20Speedgoat%206",
+        "price": 135.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Hoka%20Speedgoat%206",
+        "price": 175000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "salomon-speedcross-6",
+    "slug": "salomon-speedcross-6",
+    "brand": "Salomon",
+    "model": "Speedcross 6",
+    "category": "trail",
+    "usages": [
+      "trail"
+    ],
+    "releaseYear": 2023,
+    "price": {
+      "eur": 140,
+      "krw": 189000
+    },
+    "specs": {
+      "weightG": 298,
+      "dropMm": 10,
+      "stackHeelMm": 30,
+      "stackForefootMm": 20,
+      "cushioning": 2,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4.1,
+    "summary": "진흙과 부드러운 지형에 최적화된 공격적 러그",
+    "pros": [
+      "진흙·눈길 최고 수준 접지",
+      "발을 단단히 잡아줌"
+    ],
+    "cons": [
+      "딱딱한 노면에서 불편",
+      "좁은 핏"
+    ],
+    "recommendedFor": [
+      "유럽 숲길·진흙 코스를 주로 달리는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Salomon%20Speedcross%206",
+        "price": 124.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Salomon%20Speedcross%206",
+        "price": 128.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Salomon%20Speedcross%206",
+        "price": 174000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "brooks-cascadia-18",
+    "slug": "brooks-cascadia-18",
+    "brand": "Brooks",
+    "model": "Cascadia 18",
+    "category": "trail",
+    "usages": [
+      "trail",
+      "long"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 150,
+      "krw": 189000
+    },
+    "specs": {
+      "weightG": 310,
+      "dropMm": 8,
+      "stackHeelMm": 34,
+      "stackForefootMm": 26,
+      "cushioning": 3,
+      "stability": 4
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4,
+    "summary": "험한 지형에서도 안정적인 트레일화",
+    "pros": [
+      "뛰어난 안정성",
+      "락플레이트로 발 보호"
+    ],
+    "cons": [
+      "무거움"
+    ],
+    "recommendedFor": [
+      "바위·자갈길이 많은 등산형 트레일"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Brooks%20Cascadia%2018",
+        "price": 122.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Brooks%20Cascadia%2018",
+        "price": 143.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Brooks%20Cascadia%2018",
+        "price": 181000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "la-sportiva-bushido-iii",
+    "slug": "la-sportiva-bushido-iii",
+    "brand": "La Sportiva",
+    "model": "Bushido III",
+    "category": "trail",
+    "usages": [
+      "trail"
+    ],
+    "releaseYear": 2023,
+    "price": {
+      "eur": 155,
+      "krw": 209000
+    },
+    "specs": {
+      "weightG": 295,
+      "dropMm": 6,
+      "stackHeelMm": 29,
+      "stackForefootMm": 23,
+      "cushioning": 2,
+      "stability": 4
+    },
+    "widths": [
+      "standard"
+    ],
+    "rating": 4.2,
+    "summary": "기술적 산악 지형용 정밀 트레일화",
+    "pros": [
+      "정확한 지면 감각",
+      "뛰어난 측면 지지"
+    ],
+    "cons": [
+      "쿠션이 단단함",
+      "좁은 핏"
+    ],
+    "recommendedFor": [
+      "기술적인 산악 지형을 빠르게 달리는 러너"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=La%20Sportiva%20Bushido%20III",
+        "price": 146.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=La%20Sportiva%20Bushido%20III",
+        "price": 154.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=La%20Sportiva%20Bushido%20III",
+        "price": 209000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "hoka-bondi-9",
+    "slug": "hoka-bondi-9",
+    "brand": "Hoka",
+    "model": "Bondi 9",
+    "category": "walking",
+    "usages": [
+      "walking",
+      "recovery"
+    ],
+    "releaseYear": 2025,
+    "price": {
+      "eur": 175,
+      "krw": 219000
+    },
+    "specs": {
+      "weightG": 304,
+      "dropMm": 5,
+      "stackHeelMm": 43,
+      "stackForefootMm": 38,
+      "cushioning": 5,
+      "stability": 4
+    },
+    "widths": [
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.3,
+    "summary": "걷기와 회복주를 위한 최대 쿠션화",
+    "pros": [
+      "최고 수준의 쿠션",
+      "넓은 베이스로 안정적"
+    ],
+    "cons": [
+      "부피감",
+      "빠른 러닝엔 부적합"
+    ],
+    "recommendedFor": [
+      "하루 종일 걷거나 서 있는 사람",
+      "관절 부담을 줄이고 싶은 사람"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Hoka%20Bondi%209",
+        "price": 153.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Hoka%20Bondi%209",
+        "price": 155.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Hoka%20Bondi%209",
+        "price": 195000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "brooks-ghost-max-2",
+    "slug": "brooks-ghost-max-2",
+    "brand": "Brooks",
+    "model": "Ghost Max 2",
+    "category": "walking",
+    "usages": [
+      "walking",
+      "recovery",
+      "daily"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 160,
+      "krw": 199000
+    },
+    "specs": {
+      "weightG": 298,
+      "dropMm": 6,
+      "stackHeelMm": 39,
+      "stackForefootMm": 33,
+      "cushioning": 5,
+      "stability": 4
+    },
+    "widths": [
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.2,
+    "summary": "넓은 베이스의 안정적 맥스 쿠션 워킹·러닝화",
+    "pros": [
+      "넓고 안정적인 착지",
+      "편안한 착화감"
+    ],
+    "cons": [
+      "다소 무거움"
+    ],
+    "recommendedFor": [
+      "걷기 위주 사용자",
+      "러닝을 막 시작한 사람"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Brooks%20Ghost%20Max%202",
+        "price": 129.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Brooks%20Ghost%20Max%202",
+        "price": 148.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Brooks%20Ghost%20Max%202",
+        "price": 185000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": false,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "skechers-max-cushioning-elite-2-0",
+    "slug": "skechers-max-cushioning-elite-2-0",
+    "brand": "Skechers",
+    "model": "Max Cushioning Elite 2.0",
+    "category": "walking",
+    "usages": [
+      "walking",
+      "recovery"
+    ],
+    "releaseYear": 2024,
+    "price": {
+      "eur": 120,
+      "krw": 139000
+    },
+    "specs": {
+      "weightG": 255,
+      "dropMm": 6,
+      "stackHeelMm": 40,
+      "stackForefootMm": 34,
+      "cushioning": 5,
+      "stability": 3
+    },
+    "widths": [
+      "standard",
+      "wide"
+    ],
+    "rating": 4,
+    "summary": "가볍고 푹신한 가성비 워킹화",
+    "pros": [
+      "가격 대비 큰 쿠션",
+      "가벼움"
+    ],
+    "cons": [
+      "내구성 평범",
+      "러닝 전용으로는 아쉬움"
+    ],
+    "recommendedFor": [
+      "가성비 워킹화를 찾는 사람"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=Skechers%20Max%20Cushioning%20Elite%202.0",
+        "price": 112.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=Skechers%20Max%20Cushioning%20Elite%202.0",
+        "price": 115.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=Skechers%20Max%20Cushioning%20Elite%202.0",
+        "price": 135000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  },
+  {
+    "id": "new-balance-990v6",
+    "slug": "new-balance-990v6",
+    "brand": "New Balance",
+    "model": "990v6",
+    "category": "walking",
+    "usages": [
+      "walking"
+    ],
+    "releaseYear": 2022,
+    "price": {
+      "eur": 220,
+      "krw": 259000
+    },
+    "specs": {
+      "weightG": 340,
+      "dropMm": 12,
+      "stackHeelMm": 30,
+      "stackForefootMm": 18,
+      "cushioning": 3,
+      "stability": 4
+    },
+    "widths": [
+      "narrow",
+      "standard",
+      "wide",
+      "extra-wide"
+    ],
+    "rating": 4.1,
+    "summary": "미국 생산 클래식, 일상 걷기용 프리미엄 스니커즈",
+    "pros": [
+      "매우 다양한 발볼",
+      "고급 소재와 내구성"
+    ],
+    "cons": [
+      "무겁고 비쌈",
+      "러닝용 아님"
+    ],
+    "recommendedFor": [
+      "발볼이 넓은 사람",
+      "일상 걷기와 스타일을 모두 원하는 사람"
+    ],
+    "offers": [
+      {
+        "retailer": "Zalando",
+        "url": "https://www.zalando.de/katalog/?q=New%20Balance%20990v6",
+        "price": 190.95,
+        "currency": "EUR",
+        "region": "DE",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "Running Warehouse EU",
+        "url": "https://www.runningwarehouse.eu/searchresults.html?searchtext=New%20Balance%20990v6",
+        "price": 188.95,
+        "currency": "EUR",
+        "region": "EU",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      },
+      {
+        "retailer": "무신사",
+        "url": "https://www.musinsa.com/search/goods?keyword=New%20Balance%20990v6",
+        "price": 223000,
+        "currency": "KRW",
+        "region": "KR",
+        "inStock": true,
+        "checkedAt": "2026-11-20"
+      }
+    ],
+    "isSample": true,
+    "updatedAt": "2026-11-20"
+  }
+]
