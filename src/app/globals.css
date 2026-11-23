@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --surface-2: #f0f2f5;
+  --line: #dde1e7;
+  --fg: #14171c;
+  --muted: #5b6573;
+  --accent: #c2410c;
+  --accent-fg: #ffffff;
+  --accent-soft: #fff1e8;
+  --diff: #fff6d6;
+  --diff-line: #e2b93b;
+  --good: #15803d;
+  --ring: #2563eb;
+}
+
+.dark {
+  --bg: #0e1116;
+  --surface: #161a21;
+  --surface-2: #1d222b;
+  --line: #2b323d;
+  --fg: #e8ebf0;
+  --muted: #9aa4b2;
+  --accent: #fb923c;
+  --accent-fg: #1a0e05;
+  --accent-soft: #2a1a10;
+  --diff: #2a2410;
+  --diff-line: #a68a2a;
+  --good: #4ade80;
+  --ring: #60a5fa;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-soft: var(--accent-soft);
+  --color-diff: var(--diff);
+  --color-diff-line: var(--diff-line);
+  --color-good: var(--good);
+  --color-ring: var(--ring);
+  --font-sans: Pretendard, "Pretendard Variable", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+    "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-feature-settings: "tnum" 1;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* 스크립트로 포커스를 옮긴 제목에는 링을 그리지 않음 */
+[tabindex="-1"]:focus {
+  outline: none;
+}
