@@ -75,3 +75,8 @@ body {
     animation: none !important;
   }
 }
+
+/* 스크립트로 포커스를 옮긴 제목에는 링을 그리지 않음 */
+[tabindex="-1"]:focus {
+  outline: none;
+}
